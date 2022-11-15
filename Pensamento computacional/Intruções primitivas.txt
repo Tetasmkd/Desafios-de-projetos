@@ -1,0 +1,22 @@
+Intruções primitivas: as ações que vão executar em cima dos dados
+
+Operador    Operação       Tipo     Prioridade     Tipo de retorno     
+                                    Matematica     de resultado
+
+   +        Man.sinal      unario        1             Positivo
+   
+   -        Int. sinal     unario        1             Negativo
+    
+   ^           Exp         Binario       2               I/R                                                  
+  
+   /         Divisão       Binario       3                R
+   
+  Div        Divisão       Binário       4                I
+ 
+   *       Multiplicação   Binario       3               I/R
+  
+   +          Adição       Binário       4               I/R
+
+   -         Subtração     Binario       4               I/R
+
+

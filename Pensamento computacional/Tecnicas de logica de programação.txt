@@ -1,0 +1,8 @@
+Tecnica linear: Execução sequenciada ordenada
+1. modelo tradicional
+2. tecnica de matematica 
+3. Utilizada na programação de computadores.
+
+Tecnica estruturada: mais de uma opção. 
+
+Tecnica por módulos: conjunto de regras/ partes independentes controladas por um conjunto de regras. 

@@ -1,0 +1,13 @@
+Estrutura de repetição: irá executar um trecho de um programa a partir de certos paramentos estabelecidos dentro dessa estrutura de repetição.
+
+reduz linhas
+
+compreende melhor o codigo
+
+redução de erro
+
+Melhor que copiar o código
+
+
+no final das contas, é melhor fazer ctrl v ctrl c
+

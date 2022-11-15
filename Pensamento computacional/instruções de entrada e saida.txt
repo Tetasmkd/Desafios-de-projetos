@@ -1,0 +1,21 @@
+intruções de entrada e saida de dados: recebimento de dados do computador ou incersão de dados. 
+
+saida por interrupção: definida pelos perifericos. 
+
+Saida programda: condicional (aguarda o dispositivo para saida)
+
+para toda saida pode existir:
+Ser bem sucedido 
+erro de sintaxe ou outro 
+erros de programção
+problemas com a interface
+
+
+
+
+
+
+
+
+
+

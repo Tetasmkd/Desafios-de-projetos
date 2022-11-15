@@ -1,0 +1,9 @@
+
+Sha do git: algoritmico de incripitação
+
+uma alteração no codigo, gera outras 40 chaves
+
+
+
+
+

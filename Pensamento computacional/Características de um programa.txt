@@ -1,0 +1,12 @@
+1. legibilidade (facilidade de leitura)
+
+2. Regibilidade (reuso do codigo)
+
+3. confiabilidade (tem que fazer o que está proposto a fazer)
+
+4. baixo custo (analise de impacto, Se estar usando muito poder computacional)
+
+5. atualização
+
+6. Comunidade ativa
+

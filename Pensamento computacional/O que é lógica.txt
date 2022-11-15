@@ -1,0 +1,12 @@
+Lógica aplicada à computação: organização e planejamentos das instruções assertivas em um algoritimo para Solucionar um problema 
+
+O que é um problema: questão
+
+Computadores precisam das intruções detalhadas para poder realizar um processo/programa. 
+
+
+
+
+
+ 
+

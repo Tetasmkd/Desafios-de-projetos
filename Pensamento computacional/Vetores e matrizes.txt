@@ -1,0 +1,5 @@
+Vetor: sequancia de tipos de dados 
+
+Matriz: tabela de linhas horizontais e verticais.
+
+

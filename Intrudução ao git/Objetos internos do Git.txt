@@ -1,0 +1,27 @@
+Funcionalidades basicas dos objetos
+
+Blobs: contem meta dados do git (tamanho, objeto, tipo do objeto etx.)
+
+contem o sha do arquivo
+
+tree: armazenam blobs (contem meta dados e guarda o nome do arquivo)
+
+Contem o sha do arquivo 
+
+*toda estrutura de sha é mudada, desde que seja no blobs, desde que seja no tree.*
+
+commit: da sentido a tudo e aponta (não sei o que) para tudo.
+
+
+(POR ESSE MOTIVO, O GIT É MUITO SEGURO).
+
+
+ 
+
+
+
+
+
+
+
+

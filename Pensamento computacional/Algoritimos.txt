@@ -1,0 +1,39 @@
+Objetivo de um computador: receber, manipular e armazenar dados. 
+
+Programas: são constituidos por instruções e nelas possuem o passo a passo de como a atividade precisa realizar.
+
+Processo de resolução de problemas através de instruções: 
+1. o que precisa ser feito
+2. Qual a ordem de execução 
+
+
+Desenvolvimento de um programa: 
+1. análise 
+2. definição de entrada e saída de dados 
+3. algoritimico: receita para resolver um problema ou tarefa.
+4. Codificação: Linguagem de programação
+
+
+Exemplos de algoritimicos:
+1. Fazer Sanduiche
+2. Trocar uma lâmpada
+3. Fazer um bolo 
+Passo a passo para fazer uma tarefa 
+
+Como contruir um algoritimico: 
+1. Comprender o problema 
+2. Definição de entrada de dados 
+3. Definir o processamento 
+4. Definir dados de saída 
+5. Metodo de contrução e refinamento
+6. teste de diagnostico 
+
+Construção de algoritimicos 
+1. Narrativa: Escrever 
+2. Fluxograma: Estrutura grafica de simbolos pré-definidos 
+3. Pseudocódigo: Próximo de uma linguagem de uma codificação.  
+
+
+ 
+
+

@@ -1,0 +1,38 @@
+Forma de interagir com Git: por meio de código, não tem interface grafica.
+
+Comandos basicos de navegação do Git: 
+
+1. Comando de listar algo em um local: *DIR*
+
+2. Abrir pastas : Cd + nome da pasta 
+   
+    *(/) -> desce todos os niveis de uma vez.
+    *(..) -> desce um nivel de cada vez
+
+3. Comando de limpar tela: cls
+
+4. Tab: autocomplentar (perfeito para preguiçosos)
+
+
+
+Comandos basicos de ação do Git.
+
+1. Mkdir (cria pastas)
+
+2. echo + (instrução) > arquivo.(x) (cria arquivos)
+
+3. del + nome de pasta (apaga o que está dentro da pasta)
+
+4. rmdir + nome da pasta /s /q (apaga tudo que ta dentro da pagina) 
+
+
+
+
+
+
+
+
+ 
+ 
+
+

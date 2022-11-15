@@ -1,0 +1,21 @@
+1. analise lexica (fazer a leitura do programa fonte)
+
+Patrocinar .
+            .
+             .
+              .
+               .
+Classificar .... remove todo conteudo inrrelevente que não é bom                         
+               .
+              .
+             .
+            .
+           .
+   eliminar
+
+
+2. analise sintatica ( qual a estrutura para codificação dentro de uma estrutura)
+
+
+3. analise semantica ( estudo do significado do programa)
+

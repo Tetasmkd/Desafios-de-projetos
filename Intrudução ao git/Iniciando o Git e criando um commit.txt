@@ -1,0 +1,7 @@
+Comandos de codigos do git
+
+git init (iniciar repositorio vazio)
+git add  (mover arquivos)
+git commit (criar comit)
+ls -a (mostra pastas ocultas/arquivos ocultos)
+

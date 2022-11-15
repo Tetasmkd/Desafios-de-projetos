@@ -1,0 +1,23 @@
+o que é um paradigima: resolução de problema atraves de uma limitação especifica
+
+paradigma estruturado: instruções executadas em sequencias
+
+
+programção orientada a objeto: na programção tudo é um objeto
+
+com o objeto, com ele é capaz de fazer > o que tenho, sou capaz de fazer, como eu faço 
+
+
+o que eu tenho = atributos > podem variar
+
+sou capaz de fazer = metodos 
+
+como eu faço = estados
+
+
+
+
+
+
+
+

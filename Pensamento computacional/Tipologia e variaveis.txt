@@ -1,0 +1,26 @@
+Qual a função do computador: processar dados.
+
+Dados primitivos 
+1. Numericos: (Reais e inteiros)
+2. Caracteres: tudo que não presenta como numero (inclusive numeros) 
+3. Logico: 1 - verdadeiro/ 0 - falso /buliana
+
+Variável: Estrutura que recebe dados que não tem certeza do seu valor, sendo: mutável, que possui variações.
+
+Regras da variavel
+1. atribuir um ou mais caracter
+2. Primeira letra
+3. Sem espeaços em branco
+4. Sem utilização de palavras reservadas
+5. caracter e número.
+
+Papeis da varaiavel
+1. Ação: Modifica o estado do algoritimico 
+2. Controle: controle de alguma estrutura. 
+
+
+
+
+
+ 
+ 

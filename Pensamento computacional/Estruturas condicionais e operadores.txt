@@ -1,0 +1,74 @@
+Estrutura condicional: Só executa uma ação se a condicição for satisfeita se não, acarreta em uma excessão
+
+Estrutura simples:  Se a condição foi satisfeita
+
+Estrutura composta: Se a condição não foi satisfeita, inclui uma excessão
+
+Encadeada: Se e senão
+
+operadores relacionais: ajuda a defenir estruturas de condições 
+=
+<>
+>
+<
+>=
+<=
+
+
+estrutura da condição simples:
+
+Se (<condição>) então
+<intruções para condição verdadeira>
+fim_se
+
+
+Estrutura de condição composta por excessão
+
+Se (<condição) então
+<intruções para condição verdadeira> 
+escreva: excessão
+Fim_se
+
+Estrutura de condição composta
+
+Se(<condição>) então 
+<instruções para condição verdadeira>
+SeNão
+<instrução para condição falsa>
+Fim_se
+
+Estrutura de condição encadeada
+
+Se (<condição 1>) então 
+<instruçoes para condição verdadeira>
+SemNão
+Se (<condição 2>) então
+<Instruções para condição 2 verdade e condição 1 falsa>
+Senão 
+<intruções para condição 1 e 2 falsas>
+fim_se
+
+operadores logicos: utilizados em respostas simples F ou V 
+
+or: se uma condição for verdadeira, vai ser verdadeira.
+    Se ambos forem falsos, tudo vai ser falso 
+
+And:  Se ou senão
+
+Not: inversão de resultado logico
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

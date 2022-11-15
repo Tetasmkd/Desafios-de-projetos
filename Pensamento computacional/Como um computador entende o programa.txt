@@ -1,0 +1,7 @@
+Compilador: traduz o programa de alto nivel para baixo nivel (linguagem de maquina)
+
+Programa fonte(alto nivel) vira programa objeto(baixo nivel) 
+
+
+
+

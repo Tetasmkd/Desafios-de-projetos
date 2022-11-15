@@ -1,0 +1,18 @@
+git: é usado para controlar o histórico de alterações de arquivos e principalmente de projetos de desenvolvimento de software.
+
+GitHub: é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git.
+
+Beneficio de aprender git e github
+
+1. controle de versão ( atualizaços do codigo)
+2. Armazenamento na nuvem (codigo fica exposto)
+3. Trabalho em equipe ( todos podem acessar o codigo e interagir)
+4. Melhorar o codigo
+5. reconhecimento
+
+
+
+
+
+
+

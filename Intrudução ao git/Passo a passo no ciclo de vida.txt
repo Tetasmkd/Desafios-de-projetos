@@ -1,0 +1,14 @@
+tracked = arquivos rastrados no git que ele tem ciencia.
+
+untracked = git nao tem ciencia do arquivo.
+
+unmodified = arquivo nao modificado
+
+modifed = sofreu modificação
+
+staged = arquivos que estão se preparando para serem usado
+
+
+
+ 
+
